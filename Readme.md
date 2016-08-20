@@ -10,5 +10,8 @@ The compression will be exported and saved in the same path, with the file name 
 If you would like to decompress an ASCII file, run `node decompress.js [insert/file/PATH/here]`.
 The decompressed file will be exported and saved in the same path, with the file name appended by `decompressed`.
 
+A limited number of samples to utilize are in the "Examples" folder.
+
 ##Dependencies
 Make sure that you have node.js installed on your computer. The files should run on both UNIX and Windows systems.
+Run `npm install` in the project directory after download in order to install dependencies.
